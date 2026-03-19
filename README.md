@@ -35,6 +35,7 @@ ResearchCompendium/
 
 ## Software & Reproducibility
 **Main language(s):** R
+**I create Issues to follow the analysis plan and bug solving -> cf Issues tab**
 
 ## How to Run the Analysis
 Run the `make.R` file.
