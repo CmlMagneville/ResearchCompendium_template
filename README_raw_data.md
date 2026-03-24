@@ -10,16 +10,17 @@ Explain in a few sentences the structure of the datasets.
 - **Type:** 
 - **Source:** 
 - **Download date:** 
-- **Version information:** 
-- **Structure:**
+- **Version information:**
+- **File list and description (structure):**
   
 ### 2. Database 2
 - **Location:** ``
 - **Type:** 
 - **Source:** 
 - **Download date:** 
-- **Version information:** 
-- **Structure:**
+- **Version information:**
+- **File list and description (structure):**
+
 
 ---
 
